@@ -1,0 +1,1 @@
+browser and server communication using cookies
